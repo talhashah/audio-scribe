@@ -1,0 +1,4 @@
+openai
+openai-whisper
+python-dotenv
+azure-cognitiveservices-speech
